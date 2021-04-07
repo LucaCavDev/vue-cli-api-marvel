@@ -1,5 +1,9 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1>Hello</h1>
+    <h3>
+      This project is about an api call with vue and axios and the use of vuex
+    </h3>
+
   </div>
 </template>

@@ -25,10 +25,10 @@
 
         </div>
 
-        <div class="btn-container">                
+        <div class="btn-container mt-5">                
             <router-link to="/"> 
 
-                <button class="btn btn-dark">
+                <button class="btn btn-light">
                     Back
                 </button>
 
